@@ -1,5 +1,5 @@
 # Numeric_systems_calculator
-The calculator allows to translate and calculate a larg mount of numbers in mixed numeral systems.
+The calculator allows to translate and calculate a larg amount of numbers in mixed numeral systems.
 
 Use '_' to specify the number system (10 by default);
 
